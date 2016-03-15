@@ -1,0 +1,16 @@
+Scheme Evaluation
+
+Fact Evaluation
+
+bob
+  A='a'
+
+Query Evaluation
+
+bob(X)? Yes(1)
+select
+  A='a'
+project
+  A='a'
+rename
+  X='a'

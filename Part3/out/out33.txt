@@ -1,0 +1,9 @@
+Scheme Evaluation
+
+Fact Evaluation
+
+bob
+
+Query Evaluation
+
+bob(A)? No
